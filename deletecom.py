@@ -1,5 +1,5 @@
 import amino
-import aminos
+
 client=amino.ClientSid()
 #تسجيل
 print ("By Endru")
